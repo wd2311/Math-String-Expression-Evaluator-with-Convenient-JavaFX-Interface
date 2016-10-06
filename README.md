@@ -1,2 +1,7 @@
 # Math-String-Expression-Evaluator-with-Convenient-JavaFX-Interface
-Controls in README
+Controls:
+Escape: Close box.
+Right Arrow: -->Answer from previous box.
+Alt: Make new box.
+Enter: Evaluate box.
+
